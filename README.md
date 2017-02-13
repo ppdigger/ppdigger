@@ -22,3 +22,10 @@ node app
 ```
 npm run dev
 ```
+# 3. 数据爬取
+```
+|__ spdier
+   |__ blog.js
+   |__ good.js
+   |__ photo.js
+```
