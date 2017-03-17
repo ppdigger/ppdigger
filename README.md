@@ -1,7 +1,6 @@
 # 1. 介绍
 **ppdigger**——分享类网站。
 
-* 网站地址：[ppdigger.cc](http://www.ppdigger,cc)
 
 # 2. 使用
 你可以在本地运行
